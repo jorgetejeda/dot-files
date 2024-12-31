@@ -14,6 +14,7 @@ ripgrep
 nvm
 lazygit
 yarn
+openssh
 
 -- cask
 wezterm
